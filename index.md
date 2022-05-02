@@ -1,7 +1,7 @@
 # Anime reviews n shit
 
-- [[Luluco review|my fav show]]
-- [[Dragon Dentist review]]
+- [my fav show luluco](Lululco review.md)
+- [dragon dentist](Dragon Dentist review.md)
 
 
 
