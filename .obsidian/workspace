@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rick and Morty review.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rick and Morty review.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +105,9 @@
   },
   "active": "6de5966bd047dc77",
   "lastOpenFiles": [
-    "Rick and Morty review.md",
     "index.md",
     "Dragon Dentist review.md",
+    "Rick and Morty review.md",
     "Rick.md",
     "Luluco review.md",
     "Lululco.md",
