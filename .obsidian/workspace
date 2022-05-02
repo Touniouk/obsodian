@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Rick and Morty review.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "7ea8ebc81964bbca",
         "type": "tabs",
+        "dimension": 39.45783132530121,
         "children": [
           {
             "id": "6a8c70c24da28f06",
@@ -50,6 +51,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "481575149d303307",
+        "type": "tabs",
+        "dimension": 60.54216867469879,
+        "children": [
+          {
+            "id": "8f6ecc6f4ba8c51f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Rick and Morty review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +105,12 @@
   },
   "active": "6de5966bd047dc77",
   "lastOpenFiles": [
+    "Rick and Morty review.md",
     "index.md",
     "Dragon Dentist review.md",
+    "Rick.md",
     "Luluco review.md",
+    "Lululco.md",
     "ryu.jpg.md"
   ]
 }
