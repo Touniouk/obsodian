@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a1ed3f2f1f509b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de5966bd047dc77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfecd06ddf8d0633",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ea8ebc81964bbca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a8c70c24da28f06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7ba0f5cc4b707b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1eb5c33479361abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6ea2bba13a184f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b327e3c8c3c6d130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6de5966bd047dc77",
+  "lastOpenFiles": [
+    "index.md",
+    "Dragon Dentist review.md",
+    "Luluco review.md",
+    "ryu.jpg.md"
+  ]
+}
