@@ -1,8 +1,6 @@
 # We don't talk about this one
 
-![img idk](ryu.jpg)
-
----
+![ryu](attachments/ryu.jpg)
 
 Here's some java boilwerplate:
 

@@ -7,4 +7,4 @@
 
 Luluco fukibn slaps
 
-![luuco image](luluco.jpg)
+![luluco](attachments/luluco.jpg)

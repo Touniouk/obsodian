@@ -3,5 +3,6 @@
   "livePreview": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
